@@ -1,0 +1,711 @@
+Medan
+Manado
+Padang
+Jakarta
+Bandung
+Surabaya
+Semarang
+Makassar
+Palembang
+Denpasar
+Yogyakarta
+Balikpapan
+Samarinda
+Pontianak
+Pekanbaru
+Banjarmasin
+Mataram
+Jayapura
+Ambon
+Ternate
+Banda Aceh
+Jambi
+Serang
+Tanjung Pinang
+Palangka Raya
+Kupang
+Gorontalo
+Sofifi
+Manokwari
+Tanjung Selor
+Malang
+Bogor
+Depok
+Tangerang
+Bekasi
+Solo
+Cirebon
+Cilegon
+Tasikmalaya
+Magelang
+Salatiga
+Sukabumi
+Pangkal Pinang
+Cianjur
+Purwokerto
+Kudus
+Jember
+Banyuwangi
+Tegal
+Cimahi
+Cikarang
+Karawang
+Sumedang
+Garut
+Singaraja
+Klaten
+Kendal
+Lamongan
+Pasuruan
+Probolinggo
+Batu
+Blitar
+Kediri
+Madiun
+Ngawi
+Pacitan
+Trenggalek
+Tuban
+Situbondo
+Sampang
+Sumenep
+Pamekasan
+Bondowoso
+Jombang
+Sidoarjo
+Gresik
+Bangkalan
+Ponorogo
+Cilacap
+Bengkulu
+Lhokseumawe
+Langsa
+Binjai
+Tebing Tinggi
+Sibolga
+Pematang Siantar
+Dumai
+Tanjung Balai
+Batam
+Lubuklinggau
+Prabumulih
+Pagar Alam
+Metro
+Bengkalis
+Pariaman
+Bukittinggi
+Padang Panjang
+Solok
+Payakumbuh
+Sawahlunto
+Kisaran
+Lubuk Pakam
+Tanjung Morawa
+Parapat
+Tarutung
+Gunungsitoli
+Meulaboh
+Sigli
+Blangpidie
+Takengon
+Kutacane
+Subulussalam
+Sungai Penuh
+Bintan
+Natuna
+Karimun
+Lingga
+Belitung
+Belitung Timur
+Tulang Bawang
+Way Kanan
+Lampung Selatan
+Lampung Tengah
+Lampung Timur
+Pesawaran
+Pesisir Barat
+Mesuji
+Tanggamus
+Pringsewu
+Kaur
+Seluma
+Muko Muko
+Rejang Lebong
+Lebong
+Merangin
+Sarolangun
+Batanghari
+Muaro Jambi
+Tebo
+Bungo
+Musirawas
+Musi Banyuasin
+Muara Enim
+Lahat
+Empat Lawang
+Ogan Komering Ilir
+Ogan Komering Ulu
+Ogan Komering Ulu Timur
+Ogan Komering Ulu Selatan
+Banyuasin
+OKI
+OKU
+OKU Timur
+OKU Selatan
+Tebo
+Bungo
+Kapuas
+Barito Selatan
+Barito Utara
+Barito Timur
+Katingan
+Kotawaringin Barat
+Kotawaringin Timur
+Sukamara
+Lamandau
+Gunung Mas
+Seruyan
+Murung Raya
+Tabalong
+Tapin
+Hulu Sungai Tengah
+Hulu Sungai Selatan
+Hulu Sungai Utara
+Balangan
+Tanah Laut
+Tanah Bumbu
+Kotabaru
+Banjar
+Barito Kuala
+Paser
+Penajam Paser Utara
+Berau
+Kutai Barat
+Kutai Timur
+Mahakam Ulu
+Bontang
+Sangatta
+Malinau
+Nunukan
+Tana Tidung
+Bulungan
+Tarakan
+Fakfak
+Kaimana
+Teluk Wondama
+Teluk Bintuni
+Sorong
+Raja Ampat
+Manokwari Selatan
+Pegunungan Arfak
+Jayawijaya
+Nabire
+Paniai
+Puncak Jaya
+Mimika
+Boven Digoel
+Merauke
+Yapen
+Biak Numfor
+Waropen
+Sarmi
+Keerom
+Mamberamo Raya
+Mamberamo Tengah
+Yahukimo
+Lanny Jaya
+Nduga
+Intan Jaya
+Deiyai
+Dogiyai
+Puncak
+Tolikara
+Supiori
+Asmat
+Mappi
+Buleleng
+Tabanan
+Jembrana
+Gianyar
+Bangli
+Klungkung
+Karangasem
+Lombok Barat
+Lombok Tengah
+Lombok Timur
+Lombok Utara
+Sumbawa
+Dompu
+Bima
+Sumbawa Barat
+Manggarai
+Manggarai Barat
+Manggarai Timur
+Ngada
+Nagekeo
+Ende
+Sikka
+Flores Timur
+Lembata
+Alor
+Kupang
+Timor Tengah Selatan
+Timor Tengah Utara
+Belu
+Malaka
+Rote Ndao
+Sabu Raijua
+Sumba Barat
+Sumba Tengah
+Sumba Timur
+Sumba Barat Daya
+Halmahera Barat
+Halmahera Timur
+Halmahera Utara
+Halmahera Selatan
+Halmahera Tengah
+Pulau Morotai
+Pulau Taliabu
+Seram Bagian Barat
+Seram Bagian Timur
+Maluku Tengah
+Buru
+Buru Selatan
+Maluku Tenggara
+Maluku Tenggara Barat
+Kepulauan Aru
+Maluku Barat Daya
+Mamuju
+Mamuju Tengah
+Mamuju Utara
+Majene
+Polewali Mandar
+Toraja Utara
+Tana Toraja
+Luwu
+Luwu Utara
+Luwu Timur
+Wajo
+Soppeng
+Sidrap
+Pinrang
+Enrekang
+Tana Toraja
+Gowa
+Takalar
+Jeneponto
+Bulukumba
+Bantaeng
+Maros
+Pangkep
+Barru
+Bone
+Sinjai
+Konawe
+Konawe Selatan
+Konawe Utara
+Konawe Kepulauan
+Kolaka
+Kolaka Timur
+Kolaka Utara
+Muna
+Muna Barat
+Buton
+Buton Selatan
+Buton Tengah
+Bombana
+Wakatobi
+Baubau
+Kendari
+Banggai
+Banggai Laut
+Banggai Kepulauan
+Tojo Una-Una
+Morowali
+Morowali Utara
+Donggala
+Parigi Moutong
+Tolitoli
+Buol
+Poso
+Sigi
+Gorontalo
+Gorontalo Utara
+Bone Bolango
+Pohuwato
+Boalemo
+Manado
+Bitung
+Tomohon
+Minahasa
+Minahasa Utara
+Minahasa Selatan
+Minahasa Tenggara
+Bolaang Mongondow
+Bolaang Mongondow Utara
+Bolaang Mongondow Selatan
+Bolaang Mongondow Timur
+Kepulauan Sangihe
+Kepulauan Talaud
+Kepulauan Sitaro
+Tana Tidung
+Sebatik
+Nunukan
+Malinau
+Tarakan
+Bulungan
+Penajam
+Paser
+Kutai Kartanegara
+Balikpapan
+Samarinda
+Berau
+Kutai Barat
+Kutai Timur
+Mahakam Ulu
+Tanah Laut
+Tanah Bumbu
+Hulu Sungai Selatan
+Hulu Sungai Tengah
+Hulu Sungai Utara
+Tabalong
+Barito Kuala
+Murung Raya
+Kapuas Hulu
+Sintang
+Melawi
+Bengkayang
+Landak
+Sanggau
+Sekadau
+Sambas
+Mempawah
+Pontianak
+Singkawang
+Ketapang
+Kubu Raya
+Kayong Utara
+Banyuasin
+Ogan Ilir
+Muara Enim
+Lahat
+Musi Banyuasin
+Ogan Komering Ulu
+Ogan Komering Ilir
+Ogan Komering Ulu Timur
+Ogan Komering Ulu Selatan
+Empat Lawang
+Pali
+Lubuklinggau
+Prabumulih
+Pagaralam
+Baturaja
+Indralaya
+Sekayu
+Martapura
+Teluk Bintuni
+Pegunungan Bintang
+Yalimo
+Tolikara
+Puncak Jaya
+Lanny Jaya
+Deiyai
+Intan Jaya
+Dogiyai
+Puncak
+Nduga
+Mamberamo Tengah
+Mamberamo Raya
+Supiori
+Asmat
+Mappi
+Boven Digoel
+Waropen
+Keerom
+Sarmi
+Biak Numfor
+Yapen
+Pegunungan Arfak
+Manokwari Selatan
+Raja Ampat
+Sorong Selatan
+Kaimana
+Fakfak
+Tambrauw
+Maluku Barat Daya
+Kepulauan Aru
+Maluku Tenggara
+Maluku Tenggara Barat
+Seram Bagian Barat
+Seram Bagian Timur
+Buru
+Buru Selatan
+Taliabu
+Pulau Morotai
+Halmahera Tengah
+Halmahera Selatan
+Halmahera Timur
+Halmahera Barat
+Halmahera Utara
+Buton Utara
+Buton Tengah
+Buton Selatan
+Muna Barat
+Wakatobi
+Konawe Kepulauan
+Konawe Selatan
+Konawe Utara
+Kolaka Timur
+Kolaka Utara
+Bombana
+Banggai Kepulauan
+Banggai Laut
+Tojo Una-Una
+Morowali Utara
+Pasangkayu
+Mamasa
+Polewali Mandar
+Majene
+Mamuju
+Mamuju Tengah
+Mamuju Utara
+Toraja Utara
+Sidenreng Rappang
+Sinjai
+Barru
+Pangkajene dan Kepulauan
+Takalar
+Jeneponto
+Bantaeng
+Bulukumba
+Gowa
+Enrekang
+Luwu
+Luwu Utara
+Luwu Timur
+Bone
+Soppeng
+Wajo
+Maros
+Minahasa
+Minahasa Selatan
+Minahasa Tenggara
+Minahasa Utara
+Bolaang Mongondow
+Bolaang Mongondow Timur
+Bolaang Mongondow Selatan
+Bolaang Mongondow Utara
+Sangihe
+Sitaro
+Talaud
+Buol
+Tolitoli
+Parigi Moutong
+Donggala
+Sigi
+Poso
+Morowali
+Konawe
+Muna
+Buton
+Kolaka
+Banggai
+Gorontalo
+Gorontalo Utara
+Bone Bolango
+Boalemo
+Pohuwato
+Limboto
+Kabupaten Banggai
+Kabupaten Banggai Laut
+Kabupaten Banggai Kepulauan
+Tana Tidung
+Bulungan
+Nunukan
+Malinau
+Tarakan
+Kutai Barat
+Kutai Timur
+Berau
+Paser
+Penajam Paser Utara
+Mahakam Ulu
+Barito Selatan
+Barito Utara
+Barito Timur
+Murung Raya
+Katingan
+Kapuas
+Gunung Mas
+Pulang Pisau
+Lamandau
+Sukamara
+Seruyan
+Kotawaringin Barat
+Kotawaringin Timur
+Hulu Sungai Utara
+Hulu Sungai Selatan
+Hulu Sungai Tengah
+Balangan
+Tabalong
+Tanah Laut
+Tanah Bumbu
+Kotabaru
+Banjar
+Barito Kuala
+Bengkayang
+Sanggau
+Sekadau
+Melawi
+Kapuas Hulu
+Landak
+Ketapang
+Kayong Utara
+Kubu Raya
+Singkawang
+Mempawah
+Sambas
+Pontianak
+Bangka
+Bangka Barat
+Bangka Selatan
+Bangka Tengah
+Belitung
+Belitung Timur
+Lampung Barat
+Lampung Utara
+Lampung Tengah
+Lampung Timur
+Tulang Bawang Barat
+Tulang Bawang
+Pesawaran
+Pesisir Barat
+Tanggamus
+Way Kanan
+Mesuji
+Pringsewu
+Ogan Ilir
+Ogan Komering Ilir
+Ogan Komering Ulu
+Ogan Komering Ulu Selatan
+Ogan Komering Ulu Timur
+Empat Lawang
+Musi Banyuasin
+Musi Rawas
+Musi Rawas Utara
+PALI (Penukal Abab Lematang Ilir)
+Banyuasin
+Muara Enim
+Lahat
+Rejang Lebong
+Lebong
+Seluma
+Kaur
+Bengkulu Tengah
+Bengkulu Selatan
+Mukomuko
+Tebo
+Bungo
+Merangin
+Sarolangun
+Batanghari
+Muaro Jambi
+Tanjung Jabung Barat
+Tanjung Jabung Timur
+Karimun
+Lingga
+Natuna
+Bintan
+Anambas
+Pangkal Pinang
+Belitung
+Belitung Timur
+Kutai Kartanegara
+Balikpapan
+Samarinda
+Bontang
+Seruyan
+Lamandau
+Sukamara
+Gunung Mas
+Barito Selatan
+Barito Utara
+Barito Timur
+Murung Raya
+Hulu Sungai Utara
+Hulu Sungai Selatan
+Hulu Sungai Tengah
+Balangan
+Tabalong
+Tanah Laut
+Tanah Bumbu
+Kotabaru
+Banjar
+Barito Kuala
+Bengkayang
+Sanggau
+Sekadau
+Melawi
+Kapuas Hulu
+Landak
+Ketapang
+Kayong Utara
+Kubu Raya
+Singkawang
+Mempawah
+Sambas
+Pontianak
+Belitung
+Belitung Timur
+Bangka
+Bangka Barat
+Bangka Selatan
+Bangka Tengah
+Lampung Barat
+Lampung Utara
+Lampung Tengah
+Lampung Timur
+Tulang Bawang Barat
+Tulang Bawang
+Pesawaran
+Pesisir Barat
+Tanggamus
+Way Kanan
+Mesuji
+Pringsewu
+Ogan Ilir
+Ogan Komering Ilir
+Ogan Komering Ulu
+Ogan Komering Ulu Selatan
+Ogan Komering Ulu Timur
+Empat Lawang
+Musi Banyuasin
+Musi Rawas
+Musi Rawas Utara
+PALI (Penukal Abab Lematang Ilir)
+Banyuasin
+Muara Enim
+Lahat
+Rejang Lebong
+Lebong
+Seluma
+Kaur
+Bengkulu Tengah
+Bengkulu Selatan
+Mukomuko
+Tebo
+Bungo
+Merangin
+Sarolangun
+Batanghari
+Muaro Jambi
+Tanjung Jabung Barat
+Tanjung Jabung Timur
+Karimun
+Lingga
+Natuna
+Bintan
+Anambas
+Pangkal Pinang
+Belitung
+Belitung Timur
